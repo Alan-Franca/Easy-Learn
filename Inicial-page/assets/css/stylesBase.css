@@ -37,7 +37,6 @@ body {
   font-family: var(--body-font);
   background-color: var(--body-color);
   color: var(--text-color);
-  height: 70vh;
 }
 
 .cursos {
